@@ -1,0 +1,65 @@
+.main{
+    padding:80px;
+   
+    width: 100%;
+    height: 450px;
+    background-color: var(--black);
+    
+}
+
+
+
+.mb-3{
+    padding: 0%;
+    margin: 0%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.mb-4{
+    padding: 0%;
+    margin: 0%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.form-label{
+margin:10px;
+font-size: 200%;color: turquoise;
+box-shadow:5px 3px 4px 4px black;
+}
+.form-label1{
+    margin:10px;
+    padding:2px;
+    font-size: 200%;
+    font-size: 200%;color: turquoise;
+    box-shadow:5px 3px 4px 4px black;
+    }
+.form-control{
+    margin:0px;
+    padding:2px;
+    font-size: 200%;
+    box-shadow:5px 3px 4px 4px black;
+}
+.form-control1{
+    padding:2px;
+    font-size: 200%;
+    box-shadow:5px 3px 4px 4px black;
+}
+.btn-primary{
+    padding: 0%;
+    margin: 0%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:10px;
+    padding:2px;
+}
+
+.btn{
+    font-size: 200%;
+    color: aqua;
+    background-color: blue;
+    border: navy;
+    box-shadow:5px 3px 4px 4px black;
+}
